@@ -21,7 +21,7 @@ body {
 }
 #conteudo {
     
-    background-image:url(Imagens/fundo.jpg);
+    background-image:url(fundo.jpg);
     padding: 20px;
     display: flex;
     flex-direction: row;
